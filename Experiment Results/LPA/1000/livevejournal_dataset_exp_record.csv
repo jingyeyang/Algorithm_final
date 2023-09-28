@@ -1,0 +1,2 @@
+time_of_build_graph(sec),time_of_algo(sec),#comm,modularity,NMI
+5.21731,4378.32,29084,0.464335,0.174705
